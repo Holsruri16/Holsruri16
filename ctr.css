@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+html{
+    color:blue;
+    background:#ffffff;
+}
+
+h1{
+    color: navy;
+    background:silver;
+}
